@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I want to introduce myself really quick!!
+My name is Mark.
 <!--
 **hyungyun/hyungyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
